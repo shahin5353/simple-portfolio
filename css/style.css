@@ -39,6 +39,10 @@ section{
   color: white;
   font-weight: 700;
 }
+.link-button:hover{
+  background-image: linear-gradient(45deg,green,cyan);
+  color: black;
+}
 .dream-area{
   background-image: url("../images/dream-bg.png");
   background-repeat: no-repeat;
